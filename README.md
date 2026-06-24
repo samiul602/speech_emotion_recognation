@@ -4,7 +4,7 @@ A machine learning system that detects human emotions from speech audio using RA
 
 ## 🚀 Live Demo
 
-**Streamlit App:** [Click here to try the app](<APP_LINK_HERE>)
+https://speech-emotionrecognation.streamlit.app/
 
 ---
 
